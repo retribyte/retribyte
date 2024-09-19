@@ -7,5 +7,5 @@ Most of my experience lands in school assignments and a little front-end web dev
 
 - 🔭 Current projects:
     1. [My personal website](https://music.retri.space)
-- 🧠 I’m currently learning: React
+- 🧠 I’m currently learning: TypeScript, Express
 - 📫 How to reach me: [treyroemer@gmail.com](mailto:treyroemer@gmail.com)
